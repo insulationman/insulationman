@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @insulationman
-- 👀 I’m interested in open source software
-- 🌱 I’m currently learning how to properly chop vegetables
